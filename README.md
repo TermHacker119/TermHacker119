@@ -2,6 +2,7 @@
 - 👀 I’m interested in Hacking, Programming, Iot Devices iot hacking ,bug bounty ,Penetration testing (or pen testing)
 - 🌱 I’m currently learning hacking and programming 
 - 💞️ I’m looking to collaborate on ...
+- 💞️ I’m gray hat hacker 
 - 📫 How to reach me ...
 
 <!---
